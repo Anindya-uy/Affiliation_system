@@ -2,8 +2,10 @@
 Multiple Authentication, Breeze, Laratrust, auto generated unique link with code 
 
 
-php artisan serve
+php artisan serve,
 npm run dev
+
+DB Name = softic_db
 
 Here,
 used laravel breez package for authentication and manage multiple roles using laratrust.
